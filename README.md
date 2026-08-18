@@ -15,7 +15,6 @@ This repository contains a Rhetorical Structure Theory (RST) discourse analysis 
 
 ## 📝 Prompting Strategy & Methodology
 
-For details on the exact prompts used to produce the target text, please refer to the [Prompts Section](#-prompts-used) above.
 
 ### Generation Techniques Applied
 * **Zero-Shot / Few-Shot Contextual Prompting:** Providing source themes and stylistic constraints to test discourse cohesion.
@@ -32,7 +31,7 @@ For details on the exact prompts used to produce the target text, please refer t
 
 ---
 
-## 💡 Why RST Analysis Matters (Original vs. Generated Text)
+## 💡 Why RST
 
 Rhetorical Structure Theory (RST) breaks text down into Elementary Discourse Units (EDUs) and categorizes their relationships (e.g., *Nucleus* vs. *Satellite*, *Elaboration*, *Evidence*, *Cause*). Analyzing generated text with RST is important because:
 
@@ -64,23 +63,19 @@ Rhetorical Structure Theory (RST) breaks text down into Elementary Discourse Uni
 
 ---
 
-## 📖 Methodology & Full Term Paper
-
-The complete RST discourse parsing methodology, annotation guidelines, and full tree diagrams are detailed in the term paper uploaded to this repository:
-
-* 📄 **Term Paper:** `docs/RST_Analysis_Term_Paper.pdf` *(or see repository root)*
+## 📖 Methodology 
 
 ### How to Reproduce or Locate This Analysis Method
-If you wish to apply this RST framework to your own comparative text analyses:
-1. Refer to the **Mann & Thompson (1988)** Rhetorical Structure Theory framework.
-2. Use the **Macro-EDU Segmentation Technique** outlined in `docs/RST_Analysis_Term_Paper.pdf` to group text into functional discourse blocks (Preparation, Evidence, Causality, Consequence, Synthesis).
-3. Compare `Nucleus-Satellite` ratios between human news writing and LLM outputs.
+
+1. **Mann & Thompson (1988)** Rhetorical Structure Theory framework.
+2. **Macro-EDU Segmentation Technique** outlined in `docs/RST_Analysis_Term_Paper.pdf` to group text into functional discourse blocks (Preparation, Evidence, Causality, Consequence, Synthesis).
+3.  `Nucleus-Satellite` ratios between human news writing and LLM outputs.
 
 ---
 
 ## 📜 Copyright & Usage Rights
 
-**© [Your Name / Your Organization], 2026. All Rights Reserved.**
+
 
 * **Original Text Attribution:** The original article excerpt is property of the BBC / Navin Singh Khadka.
 * **Analysis & Code License:** The RST annotations, methodology, and comparative framework created in this repository are open for academic research and educational purposes. If you extend or build upon this research, please attribute this repository.
