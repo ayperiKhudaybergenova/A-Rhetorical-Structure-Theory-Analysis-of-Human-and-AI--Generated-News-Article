@@ -8,14 +8,14 @@ This repository contains a Rhetorical Structure Theory (RST) discourse analysis 
 
 ## 🛠 Generation Metadata
 
-* **AI Model & Version:** Anthropic Claude (Latest Version: `Claude 3.5 Sonnet` / `Claude 3 Opus` — *specify exact model used*)
+* **AI Model & Version:** Anthropic Claude (Latest Version: `Claude 3.5 Sonnet` / `Claude 3 Opus` )
 * **Generation Purpose:** To evaluate rhetorical structure shifts, sentence expansion, and discourse tree variations between human-authored and LLM-generated text.
 
 ---
 
 ## 📝 Prompting Strategy & Methodology
 
-For details on the exact prompts used to produce the target text, please refer to the [Prompts Section](#-prompts-used) below.
+For details on the exact prompts used to produce the target text, please refer to the [Prompts Section](#-prompts-used) above.
 
 ### Generation Techniques Applied
 * **Zero-Shot / Few-Shot Contextual Prompting:** Providing source themes and stylistic constraints to test discourse cohesion.
