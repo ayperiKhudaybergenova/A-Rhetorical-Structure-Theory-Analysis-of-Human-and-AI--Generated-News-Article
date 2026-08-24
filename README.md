@@ -72,6 +72,7 @@ Rhetorical Structure Theory (RST) breaks text down into Elementary Discourse Uni
 3.  `Nucleus-Satellite` ratios between human news writing and LLM outputs.
 
 ---
+An initial automatic RST analysis was carried out as a pre-processing stage before manual annotation. The texts were cleaned and segmented into analyzable units, after which a custom rule-based classifier using Python and pandas identified possible Nucleus/Satellite roles and rhetorical relations including Evidence, Cause, Contrast, Background, and Elaboration through keyword and phrase matching. The system also assigned rule-based confidence scores and exported the results as CSV and Markdown files. Because lexical rules cannot fully capture context-dependent RST relations, these outputs are treated as preliminary annotations that will be manually reviewed and refined in the next stage.
 
 ## 📜 Copyright & Usage Rights
 
