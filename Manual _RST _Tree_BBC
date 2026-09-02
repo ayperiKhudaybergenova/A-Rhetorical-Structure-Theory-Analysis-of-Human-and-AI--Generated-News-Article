@@ -1,0 +1,758 @@
+# Manual RST Tree Analysis of the BBC Article
+
+## Unit 1
+
+**Relation: Contrast**
+
+```text
+                CONTRAST
+               /         \
+        Satellite       Nucleus
+            |               |
+ Camels are famously   Even these hardy animals
+ known as the ships    are not being spared from
+ of the desert         the extremes of rising
+                       temperatures in Africa
+```
+
+## Unit 2
+
+**Relation: Background**
+
+```text
+                 Nucleus
+                    |
+          Camels are suffering
+            from extreme heat
+                    |
+                Background
+                    |
+       The Afar region of north-eastern
+       Ethiopia is one of the hottest and
+       driest places on Earth, where
+       nomads often lead camel caravans
+       carrying salt through the desert
+```
+
+## Unit 3
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Camels are suffering from
+             extreme heat
+                    |
+                 Evidence
+                    |
+       "I can see my camels suffering
+              from extreme heat,"
+              Ali Umer told the BBC
+```
+
+## Unit 4
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Camels are suffering from
+             extreme heat
+                    |
+                Elaboration
+                    |
+       "They get blisters on their feet,
+       their eyes become watery and
+       the hot sand burns their skin
+       and eats up their hair..."
+```
+
+## Unit 5
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       I have lost eight camel
+              calves
+                    |
+                  Cause
+                    |
+          Because of the
+             extreme heat
+```
+
+## Unit 6
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Extreme heat and rising
+       temperatures are affecting
+              the camels
+                    |
+                Elaboration
+                    |
+       "Even the wind, which used
+       to bring cool air, now
+       carries heat..."
+```
+
+## Unit 7
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Extreme heat is causing
+          suffering in camels
+                    |
+                 Evidence
+                    |
+       Scientists, animal welfare
+       workers and studies report
+       stress, fatigue, dehydration
+          and disease prevalence
+```
+
+## Unit 8
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+          Camels suffer from
+             extreme heat
+                    |
+                  Cause
+                    |
+       Higher temperatures cause
+       loss of water, vegetation
+          and shaded areas
+```
+
+## Unit 9
+
+**Relation: Background**
+
+```text
+                 Nucleus
+                    |
+       Extreme heat is affecting
+              camels
+                    |
+                Background
+                    |
+       North Africa and the Horn
+       of Africa host around 80%
+       of the world's dromedary
+            camel population
+```
+
+## Unit 10
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Farmers and cattle herders
+             switched to camels
+                    |
+                  Cause
+                    |
+       Because of their resilience
+       to harsh heat and drought
+             conditions
+```
+
+## Unit 11
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       High temperatures and
+       climate variability are
+       harming camel herd health
+                    |
+                 Evidence
+                    |
+       A 2025 study of camel
+       herders in southern
+       Ethiopia showed this
+              impact
+```
+
+## Unit 12
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Climate change and
+       variability harm camels
+                    |
+                 Evidence
+                    |
+       Respondents reported
+       effects on health,
+       productivity and
+       reproductive performance
+```
+
+## Unit 13
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Climate impacts are
+       harming camels in
+          the region
+                    |
+                Elaboration
+                    |
+       "In neighbouring Somalia,
+        the situation appears
+        to be more serious."
+```
+
+## Unit 14
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Drought-related camel
+       mortality is a widespread
+              crisis
+                    |
+                 Evidence
+                    |
+       Research published in June
+       has shown this, affecting
+       nearly 46% of camel-owning
+              households
+```
+
+## Unit 15
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Camel mortality was
+       concentrated in northern
+              regions
+                    |
+                 Evidence
+                    |
+       The study covered nearly
+       6,000 pastoral households
+       and Sool reported nearly
+            73% mortality
+```
+
+## Unit 16
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Extreme heat is the
+       main cause behind
+          the drought
+                    |
+                  Cause
+                    |
+       Other factors such as
+       inadequate veterinary
+       services and animal
+       management make things
+              worse
+```
+
+## Unit 17
+
+**Relation: Evidence + Cause**
+
+```text
+                    Evidence
+                   /        \
+              Nucleus      Satellite
+                 |              |
+       High temperatures   An analysis by
+       were behind the     atmospheric scientists
+       2021–22 drought     found this
+                |
+              Cause
+                |
+       Extreme heat causes
+       water to evaporate
+       from soil and water
+       bodies, while plants
+       release water vapour
+```
+
+## Unit 18
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       More sick camels and
+          more camel deaths
+                    |
+                 Evidence
+                    |
+       Veterinarians report
+       treating more sick camels
+       and seeing more deaths
+```
+
+## Unit 19
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Camels get multiple
+             infections
+                    |
+                  Cause
+                    |
+       Increase in cases of
+       hyperthermia in camels
+```
+
+## Unit 20
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       More than 15% increase
+          in camel deaths
+                    |
+                  Cause
+                    |
+             Extreme heat
+```
+
+## Unit 21
+
+**Relation: Cause + Evidence**
+
+```text
+                 Nucleus
+                    |
+       Disease prevalence and
+       reduced milk yield
+                    |
+                  Cause
+                    |
+       Climate-change impacts
+       including heat stress
+                    |
+                 Evidence
+                    |
+       Another study conducted
+       in the Horn of Africa
+```
+
+## Unit 22
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Climate impacts are
+       affecting camels
+       in the region
+                    |
+                Elaboration
+                    |
+       A similar story is
+       playing out in
+          North Africa
+```
+
+## Unit 23
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Camel deaths increase
+       during summer heatwaves
+                    |
+                 Evidence
+                    |
+       A study in Algeria,
+       published this year,
+       showed this increase
+```
+
+## Unit 24
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Extreme heat events
+       have become common
+       and heatwaves have
+       increased since 1981
+                    |
+                 Evidence
+                    |
+       WMO reports a clear
+       upward trend in
+       North African countries
+```
+
+## Unit 25
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Temperatures above
+       50°C were reported
+              in 2024
+                    |
+                 Evidence
+                    |
+       Several countries
+       in the region and
+       Middle East reported
+       these temperatures
+```
+
+## Unit 26
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       North Africa recorded
+       the most rapid warming
+       among the six subregions
+                    |
+                 Evidence
+                    |
+       WMO's 2025 report:
+       0.43°C per decade
+       between 1991 and 2025
+```
+
+## Unit 27
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Camels can tolerate
+       heat up to around 40°C
+                    |
+                 Evidence
+                    |
+       Experts explain that
+       camels regulate their
+       body temperature by
+       allowing it to fluctuate
+```
+
+## Unit 28
+
+**Relation: Contrast**
+
+```text
+                    CONTRAST
+                   /         \
+              Satellite      Nucleus
+                 |               |
+       Camels avoid water    Camels can experience
+       loss and solar        heat stress beyond
+       radiation through     their comfort range
+       physiological
+       adaptations
+```
+
+## Unit 29
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Increased risk of
+        severe heat stress
+                    |
+                  Cause
+                    |
+       Summer temperatures
+       frequently exceed 50°C,
+       with reduced vegetation,
+       water scarcity and
+       limited shade
+```
+
+## Unit 30
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Prolonged extreme heat
+       can harm camels
+                    |
+                Elaboration
+                    |
+       Professor Chehma has
+       reached a similar
+           conclusion
+```
+
+## Unit 31
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Prolonged heat above
+       41–45°C directly
+       damages camel cells
+                    |
+                 Evidence
+                    |
+       Professor Chehma's
+       experimental work
+       shows this effect
+```
+
+## Unit 32
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       The immune system
+             suffers
+                    |
+                  Cause
+                    |
+       Extreme heat damages
+       white blood cells and
+       other cells, causing
+       them to fail to repair
+       themselves
+```
+
+## Unit 33
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Heat stress causes
+       physiological changes
+                    |
+                  Cause
+                    |
+       Metabolism slows
+              ↓
+       Food intake decreases
+              ↓
+       Lethargy and
+       generalised fatigue
+```
+
+## Unit 34
+
+**Relation: Cause + Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Heat stress causes
+       reduced milk production
+       and reproductive disorders
+                    |
+                  Cause
+                    |
+       Additional effects include
+       weight loss, inflammation,
+       muscle and bone illnesses,
+       kidney-related imbalance,
+       and infectious diseases
+                    |
+                Elaboration
+                    |
+       Effects observed by
+       Professor el Khasmi
+       and his team
+```
+
+## Unit 35
+
+**Relation: Contrast**
+
+```text
+                    CONTRAST
+                   /         \
+              Satellite      Nucleus
+                 |               |
+       Other factors add     Extreme heat is
+       to the problem:       the primary culprit
+       loss of vegetation,   and impacts become
+       water, shade and      more severe
+       veterinary services
+```
+
+## Unit 36
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Herders moved their
+       camels from northern
+       Ethiopia to the south
+                    |
+                  Cause
+                    |
+       Water and vegetation
+       are relatively available
+              in the south
+```
+
+## Unit 37
+
+**Relation: Evidence + Cause**
+
+```text
+                 Nucleus
+                    |
+       Herders are leaving
+       the northern region
+              for good
+                    |
+                 Evidence
+                    |
+       Daniel Gelan reports
+       that the movement is
+              permanent
+                    |
+                  Cause
+                    |
+       Extreme heat and
+       drought make camel
+       herding unsustainable
+```
+
+## Unit 38
+
+**Relation: Contrast**
+
+```text
+                    CONTRAST
+                   /         \
+              Satellite      Nucleus
+                 |               |
+       The Horn of Africa    It is now seeing
+       had been recovering    another round of
+       from the 2020–2023    harsh conditions
+       drought
+```
+
+## Unit 39
+
+**Relation: Cause**
+
+```text
+                 Nucleus
+                    |
+       Water prices rose by
+       more than 2,000%
+                    |
+                  Cause
+                    |
+             The drought
+```
+
+## Unit 40
+
+**Relation: Elaboration**
+
+```text
+                 Nucleus
+                    |
+       Disease could start
+       killing adult camels
+                    |
+                Elaboration
+                    |
+       Umer says he is worried
+       this could happen
+```
+
+## Unit 41
+
+**Relation: Evidence**
+
+```text
+                 Nucleus
+                    |
+       Umer's concern
+          is valid
+                    |
+                 Evidence
+                    |
+       Prof. Chehma
+       supports the concern
+```
+
+## Unit 42
+
+**Relation: Contrast**
+
+```text
+                    CONTRAST
+                   /         \
+              Satellite      Nucleus
+                 |               |
+       Camels remain the      Current heatwaves
+       livestock herders'     threaten their vital
+       last line of defence   functions and turn
+       against the desert     them into climate victims
+```
+
